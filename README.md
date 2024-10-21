@@ -1,60 +1,20 @@
 # p5.js Template
 
-This is a README file that can be used to describe and document your assignment.
+Overview
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+This project aims to analyze and visualize a simple dataset from New York City (NYC). We will create a pivot table to summarize the data and develop interactive bar charts to enhance user engagement and understanding.
 
----
----
+Objectives
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+It starts by finding a simple dataset from New York City. Once we have the dataset, we’ll clean and prepare the data for analysis. Next, we’ll create a pivot table to summarize important information. After that, we’ll develop interactive bar charts to visualize the data. To make it user-friendly, these charts will allow users to click on the bars to see the exact numbers behind them.
 
-**bold text**
+Methodology
 
-*italicized text*
+- Identify and download a dataset from NYC Open Data or similar sources.
+- Clean and preprocess the dataset by handling missing values and filtering as necessary.
+- Use Excel to create a pivot table.
+- Create interactive bar charts to visualize the summarized data effectively.
+- Implement click functionality on bar charts to display the respective numerical values.
+  
+Reference image: https://wcs.smartdraw.com/chart/img/basic-bar-graph.png?bn=15100111938
 
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
